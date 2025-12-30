@@ -127,6 +127,7 @@ Minimal v1.0 layout:
   Notes and placeholders for external timestamping / notarization (e.g., OpenTimestamps).
 
 
+
 ---
 
 ## 7. Historical context (informative)
